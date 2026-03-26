@@ -21,7 +21,7 @@
 
 ---
 
-## About
+## 🌐 About
 
 **Veltis** is a freelance software engineering collective. We partner with startups and scale-ups to design, build, and ship — from data architecture to polished interfaces.
 
@@ -30,7 +30,7 @@ Just senior engineers who own what they build.
 
 ---
 
-## What we do
+## ✨ What we do
 
 | Domain | Focus |
 |--------|-------|
@@ -42,7 +42,7 @@ Just senior engineers who own what they build.
 
 ---
 
-## Stack
+## 🎛️ Stack
 
 **Frontend**
 
@@ -76,7 +76,7 @@ Just senior engineers who own what they build.
 
 ---
 
-## How we work
+## ⚡ How we work
 
 ```
 Discovery → Architecture → Sprint cycles → Delivery → Handoff
