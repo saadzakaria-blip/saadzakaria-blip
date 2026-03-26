@@ -23,10 +23,7 @@
 
 ## 🌐 About
 
-**Veltis** is a freelance software engineering collective. We partner with startups and scale-ups to design, build, and ship — from data architecture to polished interfaces.
-
-No agency overhead. No juniors on your project.  
-Just senior engineers who own what they build.
+**Veltis** is a freelance software engineering collective. We partner with startups and scale-ups to design, build, and ship from data architecture to polished interfaces.
 
 ---
 
